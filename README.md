@@ -4,6 +4,6 @@ It needs a little more work before it's ready for others to use, but I'm excited
 
 Meanwhile here's how it looks like:
 
-![Chapters Please](assets/chapters-please.png)
+<img src="assets/chapters-please.png" alt="Chapters Please" width="400"/>
 
 Thanks to [Craig Mod](https://craigmod.com/about/) for the assignment.
